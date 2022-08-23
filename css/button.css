@@ -1,0 +1,15 @@
+QPushButton {
+    background-color: lightgray;
+    color: black;
+    font: bold;
+}
+
+QPushButton:hover {
+    background-color: white;
+    color: black;
+}
+
+QLineEdit {
+    height: 20px;
+    font: bold;
+}
